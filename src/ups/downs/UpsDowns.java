@@ -19,7 +19,7 @@ public class UpsDowns {
       System.out.println("D = down   U = up   E = equals");
       int sum=0;int i=0;int sel;
       while(true){
-          System.out.println("type 1 to continue=");
+          System.out.println("type 1 to continue:");
       sel = sc.nextInt();
           
       switch (sel){
